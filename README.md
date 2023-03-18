@@ -1,0 +1,2 @@
+# LuaPlatformBitOperationLib
+一言以蔽之：试探平台整数上限，并以此动态实现位运算中如bnot反转定长的问题，不用依赖定长bit了
